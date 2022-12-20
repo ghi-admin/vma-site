@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Valle Management Associates"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Valle Management Associates"
+name                     : "Valle Management"
 description              : "With 40 years of professional consulting for planning, implementing, and execution of mental health and substance abuse programs in the civilian and criminal venues, we can help you start or umodernize your program."
 url                      : "https://vma.care" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
